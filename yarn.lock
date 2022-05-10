@@ -1711,10 +1711,10 @@
   "resolved" "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz"
   "version" "15.7.5"
 
-"@types/react-native@~0.66.13":
-  "integrity" "sha512-a+xIlll1Wo4rhBPdoecH6VfvMgm8dcMScJgO5GSt+BB+7rMX/UOTWmfAV7BXx/x4okf2Tu6nSbEygnNYgNtp2A=="
-  "resolved" "https://registry.npmjs.org/@types/react-native/-/react-native-0.66.18.tgz"
-  "version" "0.66.18"
+"@types/react-native@~0.67.6":
+  "integrity" "sha512-NM6atxrefIXMLE/PyQ1bIQjQ/lWLdls3uVxItzKvNUUVZlGqgn/uGN4MarM9quSf90uSqJYPIAeAgTtBTUjhgg=="
+  "resolved" "https://registry.npmjs.org/@types/react-native/-/react-native-0.67.6.tgz"
+  "version" "0.67.6"
   dependencies:
     "@types/react" "*"
 
